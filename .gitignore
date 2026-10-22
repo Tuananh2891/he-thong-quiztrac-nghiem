@@ -1,0 +1,5 @@
+.env
+*.log
+nginx/certs/*.key
+nginx/certs/*.pem
+.DS_Store
